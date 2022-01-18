@@ -1,0 +1,4 @@
+#ignoramos subir al repositorio el directorio git
+.git
+#ignoramos subir nuestro directorio virtual de python
+venv
