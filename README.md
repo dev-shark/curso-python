@@ -60,5 +60,17 @@ mydict = {
         }
         print(mydict)
 ```
+| Nombre                     | Descripcion                                                                                                                                              |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NumPy                      | NumPy python library helps users to work on arrays with ease                                                                                             |
+| SciPy                      | SciPy is a scientific computation library which depends on NumPy for convenient and fast N-dimensional array manipulation                                |
+| SKLearn/Scikit-learn       | Scikit-learn or Scikit-learn is the most useful library for machine learning in Python                                                                   |
+| Pandas                     | Pandas is the most efficient Python library for data manipulation and analysis                                                                           |
+| Matplotlib                 | Matplotlib is a cross-platform, data visualization and graphical plotting library for Python programming and it's numerical mathematics extension NumPy  |
+
+
+
+
+
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
